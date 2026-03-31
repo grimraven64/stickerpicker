@@ -3,7 +3,8 @@
     "memes_videos_stickers.json",
     "aquarina_vk.json",
     "biscuit_vk.json",
-    "mintyvk.json"
+    "mintyvk.json",
+    "MisanthropePack.json"
   ],
   "homeserver_url": "https://matrix.owlcat.ru"
 }
