@@ -1,6 +1,7 @@
 {
   "packs": [
-    "MisanthropePack.json"
+    "MisanthropePack.json",
+    "memes_videos_stickers.json"
   ],
   "homeserver_url": "https://matrix.sgu.ru"
 }
